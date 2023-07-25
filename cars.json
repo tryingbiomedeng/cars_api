@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "car_model": "Focus",
+        "maufacturer": "Ford",
+        "year": "2014"
+    },
+    {
+        "id": 2,
+        "car_model": "A180d",
+        "maufacturer": "Mercedes",
+        "year": "2018"
+    },
+    {
+        "id": 3,
+        "car_model": "Veyron",
+        "maufacturer": "Bugatti",
+        "year": "2023"
+    },
+    {
+        "id": 4,
+        "car_model": "P1",
+        "maufacturer": "McLaren",
+        "year":"2023"
+    }
+]
